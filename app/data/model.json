@@ -1,0 +1,51 @@
+{
+  "about": {
+    "first_name" : "Dorian",
+    "last_name" : "Blanc",
+    "birthday" : "06/11/1993",
+    "address" : "2 chemin des frères Garbero",
+    "mail" : "blanc.dorian.pro@gmail.com",
+    "phone" : "07.85.68.06.76",
+    "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque dictum nibh vitae odio sodales placerat. Phasellus tincidunt massa eget sapien luctus, vel posuere augue semper. Ut urna nibh, interdum congue tortor eu, dapibus posuere massa. Sed nulla ipsum, bibendum in auctor a, vestibulum ut felis. Quisque blandit arcu urna, ac dignissim elit ullamcorper eget. Fusce bibendum facilisis libero eget lobortis. Pellentesque ut urna sed turpis accumsan suscipit ac eu urna. Curabitur varius, nibh lobortis placerat sodales, nulla ante malesuada dui, ultrices blandit elit sem quis ex."
+  },
+
+  "work": {
+    "job1" : {
+      "job" : "Développeur WEB - Infomotiv SARL",
+      "description" : "Développement d'un service d'envoie de SMS",
+      "time" : "Avril-Juillet 2013",
+      "address" : "Nice"
+    },
+    "job2" : {
+      "job" : "Développeur WEB - E-Media France",
+      "description" : "Développement d'outils d'intéraction",
+      "time" : "Avril-Juillet 2013",
+      "address" : "Saint Laurent"
+    },
+    "job3" : {
+      "job" : "Hôte de caisse - Monoprix Victoire",
+      "description" : "Hôte de caisse et mise en rayons",
+      "time" : "Juillet-Aôut 2013",
+      "address" : "Nice"
+    }
+  },
+
+  "education": {
+    "edu1" : {
+      "date" : "2014-2017",
+      "place" : "Polytech Nice-Sophia",
+      "diplome" : "Diplôme d'ingénieur en Sciences Informatiques"
+    },
+
+    "edu2": {
+      "date" : "2012-2014",
+      "place" : "IUT de Nice-Côte D'Azur",
+      "diplome" : "D.U.T Informatique"
+    },
+    "edu3": {
+      "date" : "2012",
+      "place" : "Lycée Dhuoda - Nîmes",
+      "diplome" : "Bac S, option SI"
+    }
+  }
+}
